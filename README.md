@@ -38,7 +38,7 @@ Users should be able to:
 - HTML5
 - CSS
 - Flexbox
-- JavaScript
+- JavaScript and data.json
 
 ## Author
 - Frontend Mentor - [@PriskinZsuzsanna](https://www.frontendmentor.io/profile/PriskinZsuzsanna)
