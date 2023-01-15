@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Screenshot
 
-./Screenshot/Screenshot-Desktop.png
-./Screenshot/Screenshot-Mobile.png
+../Screenshot/Screenshot-Desktop.png
+/Screenshot/Screenshot-Mobile.png
 
 ### Built with
 
