@@ -10,11 +10,8 @@ This is a solution to the [Expenses chart component challenge on Frontend Mentor
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 
@@ -33,12 +30,16 @@ Users should be able to:
 ### Screenshot
 ![Screenshot-Desktop](https://user-images.githubusercontent.com/121173949/212545200-1426c856-5d07-4602-8f37-933a50879587.png)
 
+### Links
+
+## My process
+
 ### Built with
 
 - HTML5
 - CSS
 - Flexbox
-- JavaScript and data.json
+- JavaScript using data.json
 
 ## Author
 - Frontend Mentor - [@PriskinZsuzsanna](https://www.frontendmentor.io/profile/PriskinZsuzsanna)
